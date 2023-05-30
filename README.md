@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2023-05-29 083554](https://github.com/premalatha-sureshbabu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120620842/86cd71ca-9217-473d-b192-5ef18053e130)
+![image](https://github.com/premalatha-sureshbabu/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120620842/c0923b94-6cd4-4b3b-8df8-488652c823ef)
+
 
 ### Name:S.Prema Latha
 ### Register Number:212222230112
